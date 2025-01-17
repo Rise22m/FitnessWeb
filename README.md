@@ -42,7 +42,7 @@ Feel free to customize the code and design to align with your gym's unique ident
 If you find any issues with the website or have suggestions for improvement, please feel free to submit a pull request or open an issue in this repository. Your contributions are welcome!
 
 
-### Project Live URI:  [Live Demo](https://mian-ali.github.io/GymWebsite/)
+### Project Live URI:  [Live Demo](https://rise22m.github.io/FitnessWeb/)
 
 ## ScreenShoot
 
