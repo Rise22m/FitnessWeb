@@ -17,7 +17,7 @@ This repository contains the source code for a gym website, implemented as a sin
 
 ### Installation
 To run the gym website locally as a single page application, follow these steps:
-- Clone this repository: git clone `https://github.com/Rise22m`
+- Clone this repository: git clone `(https://github.com/Rise22m/FitnessWeb.git)`
 - Navigate to the project directory: cd GymWebsite
 - Open the index.html file in your web browser.
 
