@@ -16,9 +16,9 @@ Fitness website
 * Contains HOME, ABOUT, SERVICES, CLASSES, SCHEDULE ,PRICE and many other sections.
 
 
-[`Click the Demo Button  and View Live Project`](https://github.com/Rise22m/FitnessWeb.git)
+[`Click the Demo Button  and View Live Project`](https://rise22m.github.io/FitnessWeb/)
 
 
 ## `Project Live Url`:
 
-(https://github.com/Rise22m/FitnessWeb.git)
+(https://rise22m.github.io/FitnessWeb/)
